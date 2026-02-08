@@ -1,0 +1,16 @@
+# Core dependencies (from the provided list)
+torch
+numpy
+scipy
+matplotlib
+tqdm
+einops
+reformer-pytorch
+pandas
+scikit-learn
+sympy
+pyyaml
+statsmodels
+arch
+openai
+pydantic
